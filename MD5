@@ -1,7 +1,7 @@
-678b8361b439284bad87d3ede3bcdbb5 *DESCRIPTION
-b83c67651579d5f4a788486cb0bf193a *NAMESPACE
-65598e4e11b4e05a343a557446ed17f2 *NEWS.md
+d0f90aff3f8aa4413eb7c54c9e348b7a *DESCRIPTION
+bc0ab4a22f10ba2dc787d28a1b2c522a *NAMESPACE
+7d76c5c47b3e05ed52461df35569e9fd *NEWS.md
 ea52d02637b705563e3bc32faa5677db *R/pasteAsComment.R
 45e7d5ffb43f23da13db83aa49961198 *README.md
 4fde09a389f9b7ed05a4c7f8b09077c3 *inst/rstudio/addins.dcf
-0b419e5c8558e283e6be2341bf92daf6 *man/pasteAsComment-package.Rd
+83bc0d0474a5103d42338153ecb5e572 *man/pasteAsComment-package.Rd
